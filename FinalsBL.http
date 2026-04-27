@@ -1,0 +1,6 @@
+@FinalsBL_HostAddress = http://localhost:5007
+
+GET {{FinalsBL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
